@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7JnyfI/TKqquBiD4+A/LpUTetjRa4QZo3f2qwqVBjv0=",
+  "Hash": "vZF+pWrUd3Y8yrA5G0pxW5CgZoizTTCk/HuiTy9KCjM=",
   "Source": "Budget-management",
   "BasePath": "_content/Budget-management",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\diaza\\Desktop\\.NET\\.NET-budget-management\\Budget-management\\Budget-management\\wwwroot\\js\\FormularioTransaccion.js",
+      "SourceId": "Budget-management",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diaza\\Desktop\\.NET\\.NET-budget-management\\Budget-management\\Budget-management\\wwwroot\\",
+      "BasePath": "_content/Budget-management",
+      "RelativePath": "js/FormularioTransaccion.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\FormularioTransaccion.js"
     },
     {
       "Identity": "C:\\Users\\diaza\\Desktop\\.NET\\.NET-budget-management\\Budget-management\\Budget-management\\wwwroot\\js\\site.js",

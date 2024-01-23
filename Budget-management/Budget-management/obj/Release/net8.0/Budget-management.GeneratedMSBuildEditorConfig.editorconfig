@@ -18,12 +18,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\diaza\Desktop\.NET\.NET-budget-management\Budget-management\Budget-management
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Categoria/Borrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEJvcnJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Categoria/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Categoria/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Cuenta/Borrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhXEJvcnJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Cuenta/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhXENyZWFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Cuenta/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhXEluZGV4LmNzaHRtbA==
+[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Cuenta/Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhXERldGFsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Cuenta/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhXEVkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Home/Index.cshtml]
@@ -62,6 +86,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0N1ZW50YVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Transaccion/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25cQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Transaccion/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25cRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Transaccion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -69,6 +105,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Cuenta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-lpf2suiq5m
 
 [C:/Users/diaza/Desktop/.NET/.NET-budget-management/Budget-management/Budget-management/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

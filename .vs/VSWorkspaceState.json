@@ -3,8 +3,14 @@
     "",
     "\\Budget-management",
     "\\Budget-management\\Budget-management",
-    "\\Budget-management\\Budget-management\\Controllers"
+    "\\Budget-management\\Budget-management\\Models",
+    "\\Budget-management\\Budget-management\\Views",
+    "\\Budget-management\\Budget-management\\Views\\Categoria",
+    "\\Budget-management\\Budget-management\\Views\\TipoCuenta",
+    "\\Budget-management\\Budget-management\\Views\\Transaccion",
+    "\\Budget-management\\Budget-management\\wwwroot",
+    "\\Budget-management\\Budget-management\\wwwroot\\js"
   ],
-  "SelectedNode": "\\Budget-management\\Budget-management\\Controllers\\CuentaController.cs",
+  "SelectedNode": "\\Budget-management\\Budget-management\\Views\\Cuenta\\Detalle.cshtml",
   "PreviewInSolutionExplorer": false
 }

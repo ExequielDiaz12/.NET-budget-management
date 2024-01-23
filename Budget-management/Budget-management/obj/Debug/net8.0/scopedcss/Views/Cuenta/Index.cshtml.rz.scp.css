@@ -1,0 +1,20 @@
+
+.acordeon-cuentas button[b-lpf2suiq5m] {
+    color: black !important;
+    font-size: 20px;
+}
+
+.acordeon-cuentas button > span[b-lpf2suiq5m] {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+ }
+
+.acordeon-cuentas ul li[b-lpf2suiq5m] {
+    display: flex;
+    justify-content: space-between;
+}
+
+.acordeon-cuentas .accordion-collapse[b-lpf2suiq5m] {
+    font-size: 18px;
+}

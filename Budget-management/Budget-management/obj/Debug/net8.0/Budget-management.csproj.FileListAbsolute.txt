@@ -134,3 +134,6 @@ C:\Users\diaza\Desktop\.NET\.NET-budget-management\Budget-management\Budget-mana
 C:\Users\diaza\Desktop\.NET\.NET-budget-management\Budget-management\Budget-management\obj\Debug\net8.0\Budget-management.pdb
 C:\Users\diaza\Desktop\.NET\.NET-budget-management\Budget-management\Budget-management\obj\Debug\net8.0\Budget-management.genruntimeconfig.cache
 C:\Users\diaza\Desktop\.NET\.NET-budget-management\Budget-management\Budget-management\obj\Debug\net8.0\ref\Budget-management.dll
+C:\Users\diaza\Desktop\.NET\.NET-budget-management\Budget-management\Budget-management\obj\Debug\net8.0\scopedcss\Views\Cuenta\Index.cshtml.rz.scp.css
+C:\Users\diaza\Desktop\.NET\.NET-budget-management\Budget-management\Budget-management\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\diaza\Desktop\.NET\.NET-budget-management\Budget-management\Budget-management\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
