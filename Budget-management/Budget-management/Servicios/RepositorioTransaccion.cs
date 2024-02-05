@@ -43,6 +43,20 @@ namespace Budget_management.Servicios
                                                         and FechaTransaccion between @FechaInicio and @FechaFin;", modelo);
         }
 
+        public async Task<IEnumerable<Transaccion>> ObtenerPorUsuarioId(ParametroObtenerTransaccionesPorUsuario modelo)
+        {
+            using var con = new SqlConnection(connectionString);
+            return await con.QueryAsync<Transaccion>(@"select t.Id, t.Monto, t.FechaTransaccion, c.Nombre as Categoria
+                                                        from Transacciones t
+                                                        inner join Categoria c
+                                                        on c.Id = t.CategoriaId
+                                                        inner join Cuenta cu
+                                                        on cu.Id = t.CuentaId
+                                                        where  t.UsuarioId = @UsuarioId
+                                                        and FechaTransaccion between @FechaInicio and @FechaFin
+                                                        order by t.FechaTransaccion desc", modelo);
+        }
+
         public async Task Actualizar(Transaccion transaccion, decimal montoAnterior,
             int cuentaAnteriorId)
         {
